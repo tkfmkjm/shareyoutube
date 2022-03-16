@@ -1,2 +1,5 @@
-# mysql フォルダは要らない
+# mysql フォルダを除外
 mysql/
+
+#DS_Storeファイルを除外
+.DS_Store
